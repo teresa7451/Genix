@@ -1,0 +1,35 @@
+{
+  "name": "genix",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.2.0",
+    "firebase": "^10.14.1",
+    "framer-motion": "^11.0.5",
+    "lucide-react": "^0.344.0",
+    "next": "15.2.4",
+    "next-themes": "^0.2.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-firebase-hooks": "^5.1.1",
+    "react-hot-toast": "^2.4.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  },
+  "description": "Genix is a modern AI image generation web application designed with a Web3 dark tech style, featuring user authentication through Firebase and high-quality AI image generation powered by Genix Vision AI.",
+  "main": "next.config.js",
+  "author": "",
+  "license": "ISC"
+}
