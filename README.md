@@ -67,8 +67,8 @@ NEXT_PUBLIC_FIREBASE_PROJECT_ID=your_firebase_project_id
 NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET=your_firebase_storage_bucket
 NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID=your_firebase_messaging_sender_id
 NEXT_PUBLIC_FIREBASE_APP_ID=your_firebase_app_id
-OPENAI_API_KEY=your_vision_ai_api_key
-OPENAI_BASE_URL=your_vision_ai_base_url  # Default is https://api.gptsapi.net/v1
+AI_API_KEY=your_vision_ai_api_key
+AI_BASE_URL=your_vision_ai_base_url 
 ```
 
 3. Start the development server
