@@ -1,5 +1,5 @@
+# ca:0xb2caa7ee0a2f410b31e8ebffb0b1185b37a33b5f
 # Genix: AI Image Forge
-ca:0xb2caa7ee0a2f410b31e8ebffb0b1185b37a33b5f
 Genix is a modern AI image generation web application designed with a Web3 dark tech style, featuring user authentication through Firebase and high-quality AI image generation powered by Genix Vision AI.
 
 ## Official Links
